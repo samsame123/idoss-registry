@@ -39,3 +39,4 @@ target
 /**/target
 mvnw
 mvnw.cmd
+*.log

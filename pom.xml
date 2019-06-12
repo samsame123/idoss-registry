@@ -8,10 +8,10 @@
         <version>2.1.4.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>club.ppxia</groupId>
-    <artifactId>register</artifactId>
+    <groupId>com.idoss.registry</groupId>
+    <artifactId>idoss-registry</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>register</name>
+    <name>idoss-registry</name>
     <description>SpringCloud注册中心</description>
 
     <properties>
